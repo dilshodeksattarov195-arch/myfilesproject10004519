@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userealculate",
+        "uuid": 24981032,
+        "checksum": "qoo5ra"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
